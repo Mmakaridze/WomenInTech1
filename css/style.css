@@ -25,7 +25,7 @@
 	width: 150px;
 	height: 150px;
 	position: absolute;
-	top: 63%;
+	top: 60%;
 	left: 20%;
 	animation: sun 10s infinite 1s alternate-reverse;
 }
